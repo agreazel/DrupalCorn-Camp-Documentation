@@ -1,8 +1,8 @@
 Table of Contents
------------------
+=================
 
 What is DrupalCorn Camp?
------------------
+------------------------
 
 Camp Traditions/Goals
 -----------------
@@ -57,7 +57,18 @@ Social Media
 
 Duties During the Camp
 -----------------
-Training Day - General Comm. Responsibilities
-Camp Days - General Comm. Responsibilities
-Sprint Days - General Comm. Responsibilities
+
+ 1. Training Day - General Comm. Responsibilities 
+ 2. Camp Days - General Comm. Responsibilities 
+ 3. Sprint Day - General Comm. Responsibilities
+
+
+
+
+
+
+
+
+
+
 
